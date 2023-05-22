@@ -1,0 +1,17 @@
+.Counter output, .Counter button {
+	display: block;
+}
+
+.Counter output {
+	margin: 24px 0;
+	text-align: center;
+	font-size: 32px;
+}
+
+.Counter button {
+	padding: 24px;
+}
+
+.Counter .description {
+	font-style: italic;
+}
